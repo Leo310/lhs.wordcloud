@@ -1,5 +1,5 @@
-wordcloud
 flask
 flask_cors
 numpy
 uwsgi
+git+https://github.com/Leo310/word_cloud.git@master#egg=wordcloud
